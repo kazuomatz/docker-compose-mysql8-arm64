@@ -1,0 +1,5 @@
+/docker/mysql/data/*
+!/docker/mysql/data/.keep
+!/docker/mysql/data/.keep
+!/log/mysql/.keep
+./idea/*
